@@ -75,7 +75,7 @@ def handle_coin_toss(message):
     client.send_message(message.chat.id, result)
 ```
 
-## Структура кода :smirk:
+## Структура проекта :smirk:
 ```
 handraqw/
 ├── Procfile
